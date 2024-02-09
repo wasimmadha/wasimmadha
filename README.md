@@ -7,3 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasimmadha" alt="wasimmadha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wasim_madha" target="blank"><img src="https://img.shields.io/twitter/follow/wasim_madha?logo=twitter&style=for-the-badge" alt="wasim_madha" /></a> </p>
+
+- 🌱 I’m currently working on projects in field of NLP, CV and Time Series
+- 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing and MLOps**
+- 📫 How to reach me **wasimmadha@gmail.com**
